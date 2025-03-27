@@ -32,7 +32,7 @@ A web-based form-filling system that:
 
 ## Technical Approach
 ### Technology Stack:
-- **Frontend**: HTML,CSS,JavaScript,
+- **Frontend**: Python Library Tkinter
 - **Backend**: Python
 - **Database**: File Management System
 - **Automation**: Selenium
