@@ -32,10 +32,10 @@ A web-based form-filling system that:
 
 ## Technical Approach
 ### Technology Stack:
-- **Frontend**: Python Library Tkinter
-- **Backend**: Python
-- **Database**: File Management System
-- **Automation**: Selenium
+- **Frontend**: Python Library Tkinter.
+- **Backend**: Python.
+- **Database**: File Management System.
+- **Automation**: Selenium.
 
 ### System Architecture:
 - A **client-server model** where a database stores user data & documents.
